@@ -1,14 +1,15 @@
 # ThingRendevous3; A Real-Time Multi-tasking Pre-emptive Kernel for Embedded Systems  {#mainpage}
 
-**Current Status; Wed, 17 Feb 2023**
+**Current Status; Thu, 16 Feb 2023**
 
 This is far from complete.
 Want eyeballs on uDN02_TaskERD.md and uDN03_MemManERD.md and test/Expected/Tr3Ti_OutputForm.c
 Next up:
 
-* acquire toolset 
+* write Tr3Gen tool
+* acquire GCC ARM toolset 
 * acquire Renesas RA2A1 and Nordic nRF5340 eval boards
-* start iterative development
+* continue iterative development
 
 **End Current Status**
 
