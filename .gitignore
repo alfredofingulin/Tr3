@@ -52,6 +52,7 @@ Mkfile.old
 dkms.conf
 
 # ThingRendevous specifics
+ZZZ_scratch/
 html/
 *.*~
 *.bak
